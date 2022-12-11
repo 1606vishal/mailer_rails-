@@ -53,9 +53,9 @@ config.action_mailer.smtp_settings = {
     
     domain: 'example.com',
     
-    user_name: 'vishaltale417@gmail.com',
+    user_name: '',
     
-    password: 'Vishal@123',
+    password: '',
   
     authentication: 'plain',
   
